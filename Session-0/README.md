@@ -4,7 +4,7 @@ In this folder, you will find the presentation slides ([Session0-Slides](https:/
 
 ## INSTRUCTIONS -- IMPORTANT!
 Before the next week's session, be sure you do the following:
-1. Go through Numpy's Tutorial given below to understand the `XOR_using_NN` code better.
+1. Go through Numpy Tutorial given below to understand the `XOR_using_NN` code better.
 2. Complete the assignment given below.
 3. (Optional) Enroll in the deeplearning.ai Coursera Specialization
 
