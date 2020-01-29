@@ -1,7 +1,7 @@
 # DL-CV-2020
 ## Deep Learning and Computer Vision Course Repository (2020)
 
-Download this repository by clicking on the green `Clone or Download` button.
+If you've created a GitHub account, fork this repository by clicking on the `Fork` button at the top-right side of this page. You can also download the repository by clicking on the green `Clone or Download` button.
 
 After you download, the folder should look like this:
 
