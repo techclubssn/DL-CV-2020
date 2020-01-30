@@ -9,14 +9,14 @@ Before the next week's session, be sure you do the following:
 3. (Optional) Enroll in the deeplearning.ai Coursera Specialization
 
 ## How to access the IPython Notebook
-If you've cloned this repository, you can go to [Google Collab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) and click on the `Upload` tab, then find the `XOR_using_NN` file in your PC and click on it.
+If you've cloned this repository, you can go to [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) and click on the `Upload` tab, then find the `XOR_using_NN` file in your PC and click on it.
 
 ## Numpy Tutorial
 Access the Python Numpy Tutorial of CS231n [here](http://cs231n.github.io/python-numpy-tutorial/).
 
 ## Assignment
 
-Head over to the assignment notebook [Assignment-0.ipynb](https://github.com/techclubssn/DL-CV-2020/blob/master/Session-0/Assignment_0.ipynb) and complete tasks 1, 2 and 3. More details in the notebook.
+Head over to the assignment notebook [Assignment-0.ipynb](https://github.com/techclubssn/DL-CV-2020/blob/master/Session-0/Assignment_0.ipynb) and complete tasks 1, 2 and 3. More details in the notebook. Open the `Assignment_0.ipynb` file in Google Colab to run the code, like you did with `XOR_using_NN.ipynb`.
 
 The assignment should take just about 1 hour to complete.
 
