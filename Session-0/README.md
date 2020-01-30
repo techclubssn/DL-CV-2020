@@ -16,7 +16,7 @@ Access the Python Numpy Tutorial of CS231n [here](http://cs231n.github.io/python
 
 ## Assignment
 
-Head over to the assignment notebook [Assignment-0.ipynb]() and complete tasks 1, 2 and 3. More details in the notebook.
+Head over to the assignment notebook [Assignment-0.ipynb](https://github.com/techclubssn/DL-CV-2020/blob/master/Session-0/Assignment_0.ipynb) and complete tasks 1, 2 and 3. More details in the notebook.
 
 The assignment should take just about 1 hour to complete.
 
@@ -29,6 +29,6 @@ Use **LaTeX** or any word processing software like **MS Word** to write the docu
 We want you guys to get used to GitHub. So, once you've forked the DL-CV-2020 repository, you can upload the following files in the Session-0 folder in your forked repo:
 
 1. The `Assignment-0-solved.ipynb` file that consists of the code you wrote.
-2. The `Assignment-0.pdf` file that consists of your documented inferences. **Note:** Only upload as PDF, not .docx or others. Please mention your name/both names of your team in this PDF file. 
+2. The `Assignment-0.pdf` file that consists of your documented inferences. **Note:** Only upload as PDF, not .docx or others. Please mention your name/both names of your team in this PDF file.
 
 **Upload the files to your repo by 12 noon, Feb 3, 2020 (Monday)**.
